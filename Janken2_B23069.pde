@@ -8,4 +8,3 @@ void setup() {
 void draw() {
   board.updateSelectArea();
   board.updateCommentArea("Choose Your Hand");
-}
